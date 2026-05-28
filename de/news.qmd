@@ -3,6 +3,22 @@ title: "Neuigkeiten"
 format: html
 ---
 
+
+<div class="news-wrapper"> 
+<div class="news-item red1"> 
+  <h2>27.05.2026</h2> <img src="images/pilot_flow.jpg" alt="Retune" style="width:100%; max-width:600px;"> 
+  <p>**Neue Publikation**</p> 
+  <p>Resultate von der RETUNE Pilotstudie.</p> 
+  <p>*Schönenberger CM, Campos Ochoa S, Speich B, et al. Acceptance and preferences for different nicotine substitute products to reduce tobacco smoking in people living with HIV: Results from an internal pilot study of a randomized trial. Tobacco Induced Diseases. 2026;24(May):68. doi:10.18332/tid/218987.*</p> 
+  </div>
+  
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>25.05.2025</h2>
+  <img src="images/LogoUSB.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Die Rekrutierung von Teilnehmenden am SHCS Zentrum in Basel ist **abgeschlossen**.</p>
+</div>
+
 <div class="news-wrapper"> 
 <div class="news-item red1"> 
   <h2>13.04.2026</h2> <img src="images/bmc_trials.png" alt="Retune" style="width:100%; max-width:600px;"> 

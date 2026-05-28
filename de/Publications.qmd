@@ -5,6 +5,18 @@ format: html
 <p> </p>
 <p> </p>
 
+## "Acceptance and preferences for different nicotine substitute products to reduce tobacco smoking in people living with HIV: Results from an internal pilot study of a randomized trial"
+
+Die Ergebnisse dieses internen Piloten unterstützen die Durchführbarkeit der RETUNE-Studie. Die beobachtete Akzeptanzrate entsprach in etwa unserer Schätzung. E-Zigaretten waren das bevorzugte Produkt. Wir setzen die Rekrutierung für die RETUNE-Studie fort.
+<p> </p>
+
+[![](images/pilot_flow.jpg){fig-align="center" width="700"}](https://www.tobaccoinduceddiseases.org/Acceptance-and-preferences-for-different-nicotine-substitute-products-to-reduce-tobacco,218987,0,2.html)
+
+
+
+<p> </p>
+<p> </p>
+
 ## "Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV (RETUNE): a protocol for a pragmatic randomized trial within the Swiss HIV Cohort Study"
 
 Die peer-reviewte Veröffentlichung des RETUNE-Studienprotokolls bietet einen prägnanten Überblick über das Studiendesign.

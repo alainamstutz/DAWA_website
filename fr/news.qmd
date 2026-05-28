@@ -3,10 +3,26 @@ title: "Actualités"
 format: html
 ---
 
+
+<div class="news-wrapper"> 
+<div class="news-item red1"> 
+  <h2>27.05.2026</h2> <img src="images/pilot_flow.jpg" alt="Retune" style="width:100%; max-width:600px;"> 
+  <p>**Nouvelle publication**</p> 
+  <p>Résultats de l’étude pilote RETUNE.</p> 
+  <p>*Schönenberger CM, Campos Ochoa S, Speich B, et al. Acceptance and preferences for different nicotine substitute products to reduce tobacco smoking in people living with HIV: Results from an internal pilot study of a randomized trial. Tobacco Induced Diseases. 2026;24(May):68. doi:10.18332/tid/218987.*</p> 
+  </div>
+  
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>25.05.2025</h2>
+  <img src="images/LogoUSB.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Le recrutement des participants au centre SHCS de Bâle est **terminé**.</p>
+</div>
+
 <div class="news-wrapper"> 
 <div class="news-item red1"> 
   <h2>13.04.2026</h2> <img src="images/bmc_trials.png" alt="Retune" style="width:100%; max-width:600px;"> 
-  <p>**New publication**</p> 
+  <p>**Nouvelle publication**</p> 
   <p>La publication évaluée par des pairs du protocole de l’essai RETUNE fournit un aperçu concis du plan de l’étude.</p> 
   <p>*Schönenberger, C.M., Speich, B., Zehnder, E.R. et al. Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV (RETUNE): a protocol for a pragmatic randomized trial within the Swiss HIV Cohort Study. Trials (2026). https://doi.org/10.1186/s13063-026-09622-6*</p> 
   </div>
