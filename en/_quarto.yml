@@ -45,14 +45,12 @@ website:
     location: navbar
     type: textbox
 
-format:
-  html:
-    theme: quartz
-    include-in-header: head.html
-    backgroundcolor: "#F0F7F4"
-    mainfont: "Arial, sans-serif"
-    fontsize: 1.6rem
-    fontcolor: "#1B3A2D"
-    footer: "#1A3D2B"
+html:
+  theme: [quartz, ../styles.css]
+  backgroundcolor: "#F0F7F4"
+  mainfont: "Arial, sans-serif"
+  fontsize: 1.6rem
+  fontcolor: "#1B3A2D"
+  footer: "#1A3D2B"
 
 editor: visual
