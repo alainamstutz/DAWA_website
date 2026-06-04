@@ -13,8 +13,8 @@ editor:
 
 **DAWA is a cluster-randomized trial evaluating the effectiveness of a
 digital clinical decision support system, training and mentorship to
-reduce antibiotic prescribing at primary care health facilities in
-Zanzibar, Tanzania.**
+reduce antibiotic prescribing at primary care health facilities on
+Unguja and Pemba islands, Zanzibar, Tanzania.**
 
 ## Background
 
@@ -32,7 +32,7 @@ The DAWA project tests a comprehensive antibiotic stewardship
 intervention — combining digital clinical decision support integrated
 within the Zanzibar Electronic Medical Record (ZanEMR) system with
 targeted training and monthly peer education meetings — at primary care
-dispensaries on Unguja island, Zanzibar.
+dispensaries on Unguja and Pemba islands, Zanzibar.
 
 ## Study Overview
 
@@ -40,7 +40,7 @@ dispensaries on Unguja island, Zanzibar.
 |---|---|
 | **Full title** | A cluster-randomized trial to assess the effectiveness of a digital clinical decision support system, training and mentorship to reduce antibiotic prescribing at primary care health facilities in Tanzania |
 | **Short title** | Digital Antibiotic stewardship and Training for Wahudumu wa Afya (DAWA) |
-| **Setting** | Public dispensaries, Unguja island, Zanzibar, Tanzania |
+| **Setting** | Public dispensaries, Unguja and Pemba islands, Zanzibar, Tanzania |
 | **Design** | Three-arm parallel-group cluster randomized controlled trial |
 | **Sample size** | 5,850 patients (1,950 per arm) |
 | **Estimated first enrolment** | 1 November 2026 |
@@ -53,7 +53,7 @@ To evaluate the effectiveness of two antibiotic stewardship
 interventions — both incorporating clinical decision support integrated
 within an electronic medical record system, and one with an additional
 monthly peer education component — to reduce antibiotic prescribing for
-acute infections at primary care health facilities in Zanzibar, Tanzania.
+acute infections at primary care health facilities on Unguja and Pemba islands, Zanzibar, Tanzania.
 
 ## Study Arms
 
@@ -79,19 +79,23 @@ funded by the Swiss National Science Foundation (SNSF).*
 
 ## Study Location
 
-The DAWA trial takes place at public dispensaries on **Unguja island, Zanzibar**, an archipelago off the east coast of Tanzania.
+The DAWA trial takes place at public dispensaries on **Unguja and Pemba islands, Zanzibar**, an archipelago off the east coast of Tanzania.
 
 <div style="height:6px;background:linear-gradient(to right,#00AEEF 33.3%,#000000 33.3%,#000000 66.6%,#009A44 66.6%);border-radius:3px;margin:1rem 0 1.5rem 0;"></div>
 
 <div style="display:flex;gap:2rem;flex-wrap:wrap;align-items:flex-start;">
 
-<div style="flex:0 0 auto;text-align:center;">
+<div style="flex:0 0 auto;text-align:center;display:flex;flex-direction:column;gap:1rem;">
 
-**Flag of Zanzibar**
+<div>
+<div style="font-weight:bold;margin-bottom:0.3rem;">Zanzibar</div>
+<img src="images/flag_ZZ.png" alt="Flag of Zanzibar" style="width:150px;border:1px solid #ccc;border-radius:4px;display:block;"/>
+</div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" style="width:180px;height:120px;border:1px solid #ccc;border-radius:4px;display:block;margin:0.4rem 0;"><rect width="3" height="0.667" fill="#00AEEF"/><rect y="0.667" width="3" height="0.667" fill="#000000"/><rect y="1.333" width="3" height="0.667" fill="#009A44"/></svg>
-
-<small style="color:#666;">Blue · Black · Green</small>
+<div>
+<div style="font-weight:bold;margin-bottom:0.3rem;">Tanzania</div>
+<img src="images/flag_TZ.png" alt="Flag of Tanzania" style="width:150px;border:1px solid #ccc;border-radius:4px;display:block;"/>
+</div>
 
 </div>
 

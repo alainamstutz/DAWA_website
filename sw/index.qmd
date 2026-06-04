@@ -14,7 +14,7 @@ editor:
 **DAWA ni jaribio la kimkakati linalopanga nasibu katika vikundi,
 linalotathmini ufanisi wa mfumo wa dijitali wa msaada wa maamuzi ya
 kliniki, mafunzo na ufuatiliaji katika kupunguza uandishi wa viuavijasumu
-katika vituo vya huduma ya msingi huko Zanzibar, Tanzania.**
+katika vituo vya huduma ya msingi kwenye visiwa vya Unguja na Pemba, Zanzibar, Tanzania.**
 
 ## Usuli
 
@@ -36,7 +36,7 @@ Mradi wa DAWA unajaribu uingiliaji kati wa kina wa udhibiti wa
 viuavijasumu — ukichanganya msaada wa dijitali wa maamuzi ya kliniki
 uliounganishwa ndani ya mfumo wa Rekodi ya Matibabu ya Kielektroniki ya
 Zanzibar (ZanEMR) na mafunzo maalum na mikutano ya kila mwezi ya elimu
-ya rika — katika madispensari ya umma kwenye kisiwa cha Unguja, Zanzibar.
+ya rika — katika madispensari ya umma kwenye visiwa vya Unguja na Pemba, Zanzibar.
 
 ## Muhtasari wa Utafiti
 
@@ -44,7 +44,7 @@ ya rika — katika madispensari ya umma kwenye kisiwa cha Unguja, Zanzibar.
 |---|---|
 | **Jina kamili** | Jaribio la kimkakati linalopanga nasibu katika vikundi kutathmini ufanisi wa mfumo wa dijitali wa msaada wa maamuzi ya kliniki, mafunzo na ufuatiliaji kupunguza uandishi wa viuavijasumu katika vituo vya huduma ya msingi Tanzania |
 | **Jina fupi** | Udhibiti wa Dijitali wa Viuavijasumu na Mafunzo kwa Wahudumu wa Afya (DAWA) |
-| **Eneo la Utafiti** | Madispensari ya umma, kisiwa cha Unguja, Zanzibar, Tanzania |
+| **Eneo la Utafiti** | Madispensari ya umma, visiwa vya Unguja na Pemba, Zanzibar, Tanzania |
 | **Muundo** | Jaribio linalopanga nasibu katika vikundi lenye mikono mitatu sambamba |
 | **Ukubwa wa sampuli** | Wagonjwa 5,850 (1,950 kwa kila mkono) |
 | **Tarehe ya kwanza ya uandikishaji (inayokadiriwa)** | 1 Novemba 2026 |
@@ -58,7 +58,7 @@ Kutathmini ufanisi wa uingiliaji kati mbili wa udhibiti wa viuavijasumu
 mfumo wa rekodi za matibabu za kielektroniki, na moja ikiwa na
 kipengele cha ziada cha mikutano ya kila mwezi ya elimu ya rika — katika
 kupunguza uandishi wa viuavijasumu kwa magonjwa ya kuambukiza katika
-vituo vya huduma ya msingi Zanzibar, Tanzania.
+vituo vya huduma ya msingi kwenye visiwa vya Unguja na Pemba, Zanzibar, Tanzania.
 
 ## Mikono ya Utafiti
 
@@ -84,19 +84,23 @@ wa Kitaifa wa Kisayansi wa Uswisi (SNSF).*
 
 ## Eneo la Utafiti
 
-Jaribio la DAWA linafanyika katika madispensari ya umma kwenye **kisiwa cha Unguja, Zanzibar**, kisiwa kidogo pwani ya mashariki ya Tanzania.
+Jaribio la DAWA linafanyika katika madispensari ya umma kwenye **visiwa vya Unguja na Pemba, Zanzibar**, visiwa vidogo pwani ya mashariki ya Tanzania.
 
 <div style="height:6px;background:linear-gradient(to right,#00AEEF 33.3%,#000000 33.3%,#000000 66.6%,#009A44 66.6%);border-radius:3px;margin:1rem 0 1.5rem 0;"></div>
 
 <div style="display:flex;gap:2rem;flex-wrap:wrap;align-items:flex-start;">
 
-<div style="flex:0 0 auto;text-align:center;">
+<div style="flex:0 0 auto;text-align:center;display:flex;flex-direction:column;gap:1rem;">
 
-**Bendera ya Zanzibar**
+<div>
+<div style="font-weight:bold;margin-bottom:0.3rem;">Zanzibar</div>
+<img src="images/flag_ZZ.png" alt="Bendera ya Zanzibar" style="width:150px;border:1px solid #ccc;border-radius:4px;display:block;"/>
+</div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" style="width:180px;height:120px;border:1px solid #ccc;border-radius:4px;display:block;margin:0.4rem 0;"><rect width="3" height="0.667" fill="#00AEEF"/><rect y="0.667" width="3" height="0.667" fill="#000000"/><rect y="1.333" width="3" height="0.667" fill="#009A44"/></svg>
-
-<small style="color:#666;">Buluu · Nyeusi · Kijani</small>
+<div>
+<div style="font-weight:bold;margin-bottom:0.3rem;">Tanzania</div>
+<img src="images/flag_TZ.png" alt="Bendera ya Tanzania" style="width:150px;border:1px solid #ccc;border-radius:4px;display:block;"/>
+</div>
 
 </div>
 

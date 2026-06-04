@@ -23,6 +23,10 @@ $cyan:    #3093CF !default;
 $green:   #118230 !default;
 $sand:    #F6F5F3 !default;
 
+$zanzibar-blue:  #00AEEF !default;
+$zanzibar-green: #009A44 !default;
+$zanzibar-black: #000000 !default;
+
 $primary:   $teal !default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
@@ -97,10 +101,27 @@ $btn-code-copy-color-active: $orange !default;
   }
 }
 
+/* Zanzibar tricolor stripe across the top of the navbar */
+.navbar {
+  border-top: 6px solid;
+  border-image: linear-gradient(to right, #00AEEF 33.33%, #000000 33.33%, #000000 66.66%, #009A44 66.66%) 1;
+}
+
 h1, .h1 {
   font-family: 'Economica', sans-serif;
   font-weight: normal;
   text-transform: uppercase;
+  color: $zanzibar-blue;
+}
+
+h2, .h2 {
+  border-left: 5px solid $zanzibar-blue;
+  padding-left: 0.65rem;
+}
+
+h3, .h3 {
+  border-left: 3px solid $zanzibar-green;
+  padding-left: 0.5rem;
 }
 
 .sand-background {
