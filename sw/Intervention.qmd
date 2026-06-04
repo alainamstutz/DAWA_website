@@ -1,0 +1,111 @@
+---
+title: "Uingiliaji Kati"
+editor:
+  markdown:
+    wrap: 72
+---
+
+Uingiliaji kati wa DAWA unategemea kifaa cha vitendo cha WHO cha udhibiti
+wa viuavijasumu katika vituo vya afya vya nchi zenye kipato cha chini na
+cha kati, na miongozo kutoka kwa Jumuiya ya Magonjwa ya Kuambukiza ya
+Amerika (IDSA).
+
+## ZanEMR-AS — Msaada wa Dijitali wa Maamuzi ya Kliniki
+
+**ZanEMR** ni mfumo wa Rekodi ya Matibabu ya Kielektroniki ya Zanzibar
+uliotengenezwa na kupelekwa na Wizara ya Afya ya Zanzibar katika
+madispensari ya umma kwenye kisiwa cha Unguja. **ZanEMR-AS** (ZanEMR —
+Udhibiti wa Viuavijasumu) ni toleo lililobadilishwa la ZanEMR
+lililoimarishwa na vipengele vya udhibiti wa viuavijasumu, linalotumika
+katika mikono ya uingiliaji kati ya 1 na 2.
+
+ZanEMR-AS ina vipengele vitano vya msingi:
+
+### 1. Msaada wa Maamuzi ya Kliniki
+
+Pop-up inaonekana wakati wa huduma wakati daktari anachagua utambuzi
+fulani, au wakati mchanganyiko maalum wa utambuzi–matibabu unaingizwa.
+Mwongozo unachukua mfumo wa algorithm fupi ya sheria (hatua 2–3) yenye
+visanduku vya kuthibitisha, ikisaidia daktari kuamua kama dawa ya
+viuavijasumu inahitajika na, kama ndiyo, ni ipi.
+
+Algorithms zinaendelezwa kutoka kwa Miongozo ya Matibabu ya Kawaida ya
+Zanzibar na Tanzania, Usimamizi Jumuishi wa WHO wa Ugonjwa wa Utotoni
+(IMCI), algorithms za kliniki za WHO IMPACT, na Mkabala wa Vitendo wa
+Kifurushi cha Huduma (PACK). Maudhui ya kliniki yanaidhinishwa kupitia
+mchakato wa Rand/UCLA Appropriateness Method (RAM) na paneli za wataalam
+Zanzibar.
+
+### 2. Seti za Agizo la Matibabu Zilizochaguliwa Awali
+
+Kwa utambuzi unaohusiana mara nyingi na uandishi usio wa lazima au usio
+sahihi wa viuavijasumu, mfumo unawasilisha seti za agizo la matibabu
+zilizochaguliwa awali zinazooana na Miongozo ya Matibabu ya Kawaida ya
+Zanzibar na miongozo ya WHO AWaRe. Muundo huu wa "chaguo chanya la
+msingi" unaweza kusaidia madaktari kufanya maamuzi yanayotegemea ushahidi
+bila kupunguza uhuru wao.
+
+### 3. Arifa za Kutofautiana kwa Matibabu
+
+Wakati daktari anachagua dawa ya viuavijasumu kwa utambuzi ambao
+hauhitajii, arifa ya pop-up inaashiria kutofautiana. Utambuzi wote wa
+ICD-10 umepangwa kwa makundi: (A) dawa ya viuavijasumu inahitajika,
+(B) dawa ya viuavijasumu inaweza kuhitajika, (C) dawa ya viuavijasumu
+haihitajiki, au (D) dawa ya viuavijasumu imepigwa marufuku.
+
+### 4. Uainishaji wa AWaRe wa Viuavijasumu
+
+Viuavijasumu vyote katika mfumo vimeainishwa kulingana na
+[mfumo wa WHO AWaRe](https://www.who.int/publications/i/item/2022-aware-classification){target="_blank"}
+(Access, Watch, Reserve, Haipendekezwi):
+
+- Viuavijasumu vya **Reserve** na **Haipendekezwi** vinaonekana kwa **rangi nyekundu**
+- Viuavijasumu vya **Watch** vinaonekana kwa **rangi ya machungwa**
+- Viuavijasumu vya **Access** vinaonekana kwa **rangi ya kijani**
+
+Ukodishaji wa rangi huu unaimarisha uteuzi sahihi wa dawa ya viuavijasumu
+wakati wa uandishi.
+
+### 5. Dashibodi za Ukaguzi na Maoni
+
+Dashibodi zinalinganisha viwango vya uandishi wa viuavijasumu katika
+vituo vya afya vinavyoshiriki, vikigawanywa kwa makundi ya AWaRe. Hizi
+zinashirikiwa na wahudumu wa afya na mamlaka husika ya afya ya umma
+kusaidia tafakari na uboreshaji wa ngazi ya kituo.
+
+---
+
+## Klamu ya Udhibiti wa Viuavijasumu
+
+**Klamu ya Udhibiti wa Viuavijasumu** ni uingiliaji kati wa elimu ya rika
+wa kila mwezi uliopangwa, unaotekelezwa katika vituo vya Mkono wa 1 peke
+yake.
+
+Kila mwezi, wahudumu wa afya katika kituo hukutana ili:
+
+- Kupitia mifumo ya uandishi wa viuavijasumu ya kituo chao wakitumia
+  dashibodi za ZanEMR-AS
+- Kujadili hali ngumu au zisizo wazi
+- Kutambua vizuizi vya ndani vya uandishi wa busara
+- Kushiriki mikakati ya kuwasiliana na wagonjwa wanaotarajia dawa ya
+  viuavijasumu
+
+Mikutano inadongozwa na rika (si ya nje iliyowekwa), kuunda mazingira ya
+uwajibikaji na usaidizi kwa mabadiliko ya tabia. Vikao hudumu takriban
+saa 1 na vinavyofasiliwa na kiongozi wa kliniki aliyefunzwa katika kila
+kituo.
+
+---
+
+## Mafunzo na Ufuatiliaji
+
+Vituo vyote vilivyopangwa kwa Mkono wa 1 au Mkono wa 2 hupokea:
+
+- **Mafunzo ya awali ya kikundi** kuhusu matumizi ya ZanEMR-AS na
+  kanuni za uandishi wa busara wa viuavijasumu
+- **Ziara za ufuatiliaji zinazosaidiwa** na mshauri wa kliniki wakati
+  wa kipindi cha uingiliaji kati, ukitoa mwongozo wa mtu mmoja mmoja
+  au kikundi kidogo na kushughulikia changamoto za utekelezaji
+
+Vituo vya udhibiti (Mkono wa 3) vinaendelea kutumia ZanEMR ya kawaida na
+msaada wa kawaida kutoka kwa Wizara ya Afya peke yake.

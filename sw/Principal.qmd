@@ -1,0 +1,81 @@
+---
+title: "Timu"
+editor:
+  markdown:
+    wrap: 72
+---
+
+Mradi wa DAWA unaunganisha watafiti na wataalam wa afya ya umma kutoka
+Uswisi na Tanzania. Maelezo ya wanachama wa timu yataongezwa hapa.
+
+---
+
+## Mtafiti Mkuu
+
+::: {.team-card}
+**[Jina]**
+*[Cheo]*
+Kituo cha Afya ya Msingi na Afya ya Umma (Unisanté), Chuo Kikuu cha
+Lausanne, Uswisi
+:::
+
+---
+
+## Watafiti Wenza na Washirika
+
+::: {.team-card}
+**[Jina]**
+*[Cheo]*
+[Taasisi]
+:::
+
+::: {.team-card}
+**[Jina]**
+*[Cheo]*
+Taasisi ya Afya ya Ifakara (IHI), Tanzania
+:::
+
+::: {.team-card}
+**[Jina]**
+*[Cheo]*
+Wizara ya Afya ya Zanzibar, Tanzania
+:::
+
+---
+
+## Taasisi
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Kituo cha Afya ya Msingi na Afya ya Umma (Unisanté)**
+Chuo Kikuu cha Lausanne
+Barabara ya Bugnon 44, 1011 Lausanne
+Uswisi
+*Mdhamini na kituo cha uratibu*
+:::
+
+::: {.column width="33%"}
+**Taasisi ya Afya ya Ifakara (IHI)**
+S.L.P. 78373
+Dar es Salaam, Tanzania
+*Mshirika wa utekelezaji*
+:::
+
+::: {.column width="33%"}
+**Wizara ya Afya ya Zanzibar**
+Zanzibar, Tanzania
+*Mshirika wa serikali*
+:::
+
+::::
+
+<style>
+.team-card {
+  border: 1px solid #d0e8d8;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  background-color: #f6fbf8;
+}
+</style>

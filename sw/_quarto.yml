@@ -1,43 +1,43 @@
 project:
   type: website
-  output-dir: "../docs/en"
+  output-dir: "../docs/sw"
 
 website:
   back-to-top-navigation: true
   navbar:
     pinned: false
     left:
-      - text: "Home"
+      - text: "Nyumbani"
         href: index.qmd
-      - text: "About"
+      - text: "Kuhusu"
         menu:
-          - text: "Background"
+          - text: "Usuli"
             href: Background.qmd
-          - text: "Study Design"
+          - text: "Muundo wa Utafiti"
             href: Design.qmd
-          - text: "Intervention"
+          - text: "Uingiliaji Kati"
             href: Intervention.qmd
-      - text: "Documents"
+      - text: "Hati"
         menu:
-          - text: "Protocol"
+          - text: "Itifaki"
             href: Protocol.qmd
-          - text: "Publications"
+          - text: "Machapisho"
             href: Publications.qmd
-      - text: "Team"
+      - text: "Timu"
         href: Principal.qmd
-      - text: "Partners"
+      - text: "Washirika"
         href: Funding.qmd
-      - text: "News"
+      - text: "Habari"
         href: news.qmd
     right:
-      - text: "🌍 Language"
+      - text: "🌍 Lugha"
         menu:
-          - text: "Kiswahili"
-            href: ../sw/index.html
+          - text: "English"
+            href: ../en/index.html
       - icon: envelope
-        text: Email
+        text: Barua pepe
         href: mailto:alain.amstutz@unisante.ch
-  page-footer: © 2025 DAWA Project &middot; Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+  page-footer: © 2025 Mradi wa DAWA &middot; Imetengenezwa na [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
   search:
     location: navbar
     type: textbox

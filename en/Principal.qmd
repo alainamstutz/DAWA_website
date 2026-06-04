@@ -1,13 +1,81 @@
 ---
-title: "Meet the Team!"
-listing:
-  - id: any
-    include: 
-      people_group: "any"
-    exclude:
-      external: true
-    template: _ejs/people-box.ejs
-    type: grid
-    fields: [title,role, image]
-page-layout: full
+title: "Team"
+editor:
+  markdown:
+    wrap: 72
 ---
+
+The DAWA project brings together researchers and public health experts
+from Switzerland and Tanzania. Team member profiles will be added here.
+
+---
+
+## Principal Investigator
+
+::: {.team-card}
+**[Name]**
+*[Title]*
+Centre for Primary Care and Public Health (Unisanté), University of
+Lausanne, Switzerland
+:::
+
+---
+
+## Co-Investigators and Collaborators
+
+::: {.team-card}
+**[Name]**
+*[Title]*
+[Institution]
+:::
+
+::: {.team-card}
+**[Name]**
+*[Title]*
+Ifakara Health Institute (IHI), Tanzania
+:::
+
+::: {.team-card}
+**[Name]**
+*[Title]*
+Zanzibar Ministry of Health, Tanzania
+:::
+
+---
+
+## Institutions
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Centre for Primary Care and Public Health (Unisanté)**
+University of Lausanne
+44 Bugnon Road, 1011 Lausanne
+Switzerland
+*Sponsor and coordinating centre*
+:::
+
+::: {.column width="33%"}
+**Ifakara Health Institute (IHI)**
+PO Box 78373
+Dar es Salaam, Tanzania
+*Implementation partner*
+:::
+
+::: {.column width="33%"}
+**Zanzibar Ministry of Health**
+Zanzibar, Tanzania
+*Government partner*
+:::
+
+::::
+
+<style>
+.team-card {
+  border: 1px solid #d0e8d8;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  background-color: #f6fbf8;
+}
+</style>

@@ -1,0 +1,68 @@
+---
+title: "Usuli"
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Upinzani wa Viuavijasumu — Tatizo la Kimataifa
+
+Upinzani wa bakteria dhidi ya viuavijasumu (AMR) ni moja ya vitisho
+vikubwa zaidi vya afya ya umma duniani katika karne ya 21. AMR hutokea
+wakati bakteria zinakua njia za kupinga athari za viuavijasumu, hivyo
+kufanya matibabu ya kawaida kutokuwa na ufanisi na kuruhusu maambukizi
+kuendelea na kusambaa.
+
+Uandishi wa viuavijasumu usio sahihi ni kichocheo kikubwa cha AMR.
+Viuavijasumu huandikwa wakati havihitajiki, au dawa isiyo sahihi
+inachaguliwa kwa dalili sahihi, ikichochea uteuzi wa aina za bakteria
+zinazopinga dawa.
+
+## Mzigo katika Huduma ya Msingi
+
+Zaidi ya **80% ya uandishi wote wa viuavijasumu** hutokea katika mazingira
+ya huduma ya msingi. Mapitio ya mfumo yaliyofanywa yaligundua kwamba
+viuavijasumu huandikwa katika takriban **52% ya mashauriano ya huduma ya
+msingi** katika nchi zenye kipato cha chini na cha kati — kiwango
+kinachozidi sana mahitaji ya kliniki.
+
+Matokeo yake ni ya kushtua: magonjwa zaidi, vifo zaidi, magonjwa
+yanayodumu muda mrefu, na gharama za afya kuongezeka — hali hii
+inaathiri zaidi watu katika nchi zenye kipato cha chini ambao tayari
+wanakabiliwa na upatikanaji mdogo wa huduma za afya.
+
+## Hali Tanzania na Zanzibar
+
+Tanzania, ikiwa ni pamoja na visiwa vya Zanzibar, inakabiliwa na mzigo
+mkubwa wa AMR. Madispensari ya huduma ya msingi Zanzibar yanahudumia
+kama hatua ya kwanza ya mawasiliano kwa sehemu kubwa ya watu na ni
+mazingira muhimu ya kuboresha uandishi wa viuavijasumu.
+
+Mambo kadhaa yanafanya uandishi wa busara wa viuavijasumu kuwa mgumu
+katika mazingira haya:
+
+- **Kutokuwa na uhakika wa kliniki:** Magonjwa mengi ya papo hapo
+  yanaonyesha dalili zinazoingiliana, ikifanya kuwa vigumu kutofautisha
+  maambukizi ya bakteria na ya virusi bila vipimo vya maabara.
+- **Matarajio ya wagonjwa:** Wagonjwa mara nyingi hutarajia dawa ya
+  viuavijasumu, na madaktari wanaweza kuhisi shinikizo la kuandika.
+- **Utamaduni wa zamani wa uandishi:** Uandishi wa viuavijasumu kwa
+  wingi umekuwa wa kawaida katika mazingira mengi ya huduma ya msingi.
+- **Zana chache za usaidizi wa maamuzi:** Zana chache za dijitali
+  zimeundwa kwa ajili ya kusaidia wagonjwa wazima na watoto Afrika
+  Mashariki, na zile zilizopo mara nyingi hazijaunganishwa katika
+  mtiririko wa kazi wa kliniki wa kila siku.
+
+## Fursa
+
+Wizara ya Afya ya Zanzibar imetengeneza na kupeleka mfumo wa **Rekodi ya
+Matibabu ya Kielektroniki ya Zanzibar (ZanEMR)** katika madispensari ya
+huduma ya msingi kwenye kisiwa cha Unguja. Miundombinu hii ya dijitali
+inatoa fursa ya kipekee ya kupachika vipengele vya udhibiti wa viuavijasumu
+moja kwa moja katika mtiririko wa kazi wa kliniki — wakati wa huduma,
+bila kurudia uingizaji wa data.
+
+Mradi wa DAWA uliundwa kujaribu kama mchanganyiko wa msaada huu wa
+dijitali wa maamuzi ya kliniki na mafunzo yaliyopangwa na elimu ya rika
+unaweza kupunguza kwa kiasi kikubwa uandishi wa viuavijasumu usio sahihi
+katika ngazi ya huduma ya msingi Zanzibar.

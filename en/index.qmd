@@ -1,75 +1,78 @@
 ---
-title: "RETUNE"
-image: "images/logo2.png"
+title: "DAWA"
 about:
   template: marquee
   image-shape: rectangle
   image-width: 100%
-  links:
-    - icon: envelope
-      text: Email
-      href: "mailto:christofmanuel.schoenenberger@usb.ch"  
-    - icon: folder
-      text: Registry
-      href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 
-**RETUNE is a pragmatic randomized trial within the Swiss HIV Cohort
-Study. The goal of this study is to test different nicotine substitution
-products to stop tobacco smoking.**
+# Digital Antibiotic stewardship and Training for Wahudumu wa Afya
 
-Tobacco smoking is a major health burden in people living with HIV.
-Tobacco smoking is major risk factor for the development of
-cardiovascular disease (for example heart attack) and cancer (for
-example lung cancer).
+**DAWA is a cluster-randomized trial evaluating the effectiveness of a
+digital clinical decision support system, training and mentorship to
+reduce antibiotic prescribing at primary care health facilities in
+Zanzibar, Tanzania.**
 
-RETUNE will test a menu of different nicotine substitution products:
+## Background
 
--   E-cigarettes
+Inappropriate antibiotic prescribing is widespread in primary care
+settings in low- and middle-income countries, contributing to bacterial
+antimicrobial resistance (AMR), and excess morbidity and mortality.
+Antibiotic prescription is estimated to occur in over half of primary
+care consultations in low- and middle-income countries.
 
--   Nicotine pouches
+Digital clinical decision support systems (CDSS) integrated within
+electronic medical record (EMR) systems have shown potential to improve
+antibiotic stewardship, yet existing tools have important limitations:
+most target only children under five years of age, and many are not
+embedded in the health facilities' digital infrastructure.
 
--   Nicotine patches
+The DAWA project tests a comprehensive antibiotic stewardship
+intervention — combining digital clinical decision support integrated
+within the Zanzibar Electronic Medical Record (ZanEMR) system with
+targeted training and monthly peer education meetings — at primary care
+dispensaries on Unguja island, Zanzibar.
 
-<p> </p>
+## Study Overview
 
-The study participants can choose one of the products and receive the
-product free of charge for 6 months to quit tobacco smoking.
+| | |
+|---|---|
+| **Full title** | A cluster-randomized trial to assess the effectiveness of a digital clinical decision support system, training and mentorship to reduce antibiotic prescribing at primary care health facilities in Tanzania |
+| **Short title** | Digital Antibiotic stewardship and Training for Wahudumu wa Afya (DAWA) |
+| **Setting** | Public dispensaries, Unguja island, Zanzibar, Tanzania |
+| **Design** | Three-arm parallel-group cluster randomized controlled trial |
+| **Sample size** | 5,850 patients (1,950 per arm) |
+| **Estimated first enrolment** | 1 November 2026 |
+| **Registry** | To be registered on ClinicalTrials.gov |
+| **Sponsor** | Centre for Primary Care and Public Health (Unisanté), University of Lausanne, Switzerland |
 
-<p> </p>
+## Primary Objective
 
-The RETUNE study will be conducted at the following hospitals:
+To evaluate the effectiveness of two antibiotic stewardship
+interventions — both incorporating clinical decision support integrated
+within an electronic medical record system, and one with an additional
+monthly peer education component — to reduce antibiotic prescribing for
+acute infections at primary care health facilities in Zanzibar, Tanzania.
 
--   University Hospital Basel (ongoing)
+## Study Arms
 
--   University Hospital Bern (ongoing)
+- **Arm 1 (Multifaceted Intervention):** ZanEMR-AS (digital clinical
+  decision support integrated within ZanEMR) with initial group
+  training, supported mentorship visits, and monthly Antibiotic
+  Stewardship Club meetings.
 
--   University Hospital Zurich (ongoing)
+- **Arm 2 (Digital Support Alone):** ZanEMR-AS with initial group
+  training and supported mentorship visits.
 
--   Cantonal Hospital St. Gallen (ongoing)
+- **Arm 3 (Usual Care):** Standard ZanEMR (no antibiotic stewardship
+  features).
 
--   University Hospital Lausanne (ongoing)
-
--   University Hospital Geneva (ongoing)
-
--   Cantonal Hospital Aarau (ongoing)
-
-
-<p> </p>
-
-This study is led by researchers from the University of Basel.
-
-::: {style="background-color: #f0f0f0; padding: 1rem; text-align: center; margin-top: 4rem;"}
-<p><a href="https://www.shcs.ch" target="_blank">
-<img src="images/shcs_logo Kopie.jpg" alt="Logo 1" style="height:120px; margin: 0 1rem;"/>
-</a>
-<a href="https://www.tpf.admin.ch/tpf/de/home/fonds/tabakpraeventionsfonds.html" target="_blank">
-<img src="images/logoBAG.png" alt="Logo 2" style="height:120px; margin: 0 1rem;"/>
-</a>
-<a href="https://www.snf.ch/en/RDtCf0PZrKDKwsI6/funding/careers/md-phd-programme" target="_blank">
-<img src="images/SNSF.png" alt="Logo 3" style="height:120px; margin: 0 1rem;"/>
-</a></p>
+::: {style="background-color: #e8f5e9; padding: 1rem; border-radius: 8px; margin-top: 2rem;"}
+*The DAWA project is a collaboration between the Centre for Primary Care
+and Public Health (Unisanté), University of Lausanne; the Ifakara Health
+Institute (IHI), Tanzania; and the Zanzibar Ministry of Health. It is
+funded by the Swiss National Science Foundation (SNSF).*
 :::

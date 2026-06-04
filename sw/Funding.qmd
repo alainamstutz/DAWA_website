@@ -1,0 +1,25 @@
+---
+title: "Washirika na Ufadhili"
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Mdhamini
+
+Mradi wa DAWA unafadhiliwa na **Kituo cha Afya ya Msingi na Afya ya Umma
+(Unisanté), Chuo Kikuu cha Lausanne**, Uswisi.
+
+## Washirika wa Utekelezaji
+
+- **Kituo cha Afya ya Msingi na Afya ya Umma (Unisanté), Chuo Kikuu cha
+  Lausanne, Uswisi**
+- **Taasisi ya Afya ya Ifakara (IHI)**, Dar es Salaam, Tanzania
+- **Wizara ya Afya ya Zanzibar**, Tanzania
+
+## Ufadhili
+
+DAWA inafadhiliwa na:
+
+- **Mfuko wa Kitaifa wa Kisayansi wa Uswisi (SNSF)** — Ruzuku PZ00P3\_216330
+- **Tuzo ya Cadot**, Chuo Kikuu cha Lausanne

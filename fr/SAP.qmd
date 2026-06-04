@@ -1,9 +1,0 @@
----
-title: "Plan d’analyse statistique"
----
-
-<p> </p>
-
-## Version 1.0:
-
-[Download PAS (PDF)](files/RETUNE_SAP_v1.0.pdf){target="_blank"}

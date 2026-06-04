@@ -1,0 +1,20 @@
+---
+title: "Itifaki"
+editor:
+  markdown:
+    wrap: 72
+---
+
+Itifaki kamili ya utafiti itapatikana hapa mara baada ya kuidhinishwa na
+kusajiliwa.
+
+**Toleo la Itifaki:** v0.1 (rasimu, Oktoba 2025)
+
+**Usajili:** Itasajiliwa kwenye ClinicalTrials.gov kabla ya uandikishaji.
+
+**Mapitio ya maadili:** Maombi ya maadili yatawasilishwa kwa:
+
+- Bodi ya Mapitio ya Taasisi ya Ifakara Health Institute (IHI), Tanzania
+- Ofisi ya Mtakwimu Mkuu, Wizara ya Afya ya Zanzibar
+- Taasisi ya Utafiti wa Afya ya Zanzibar (ZAHRI), Tanzania
+- Bodi ya Mapitio ya Maadili ya Kantoni ya Vaud, Uswisi

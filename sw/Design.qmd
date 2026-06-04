@@ -1,0 +1,121 @@
+---
+title: "Muundo wa Utafiti"
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Muhtasari
+
+Mradi wa DAWA ni itifaki kuu inayojumuisha masomo kadhaa yanayohusiana
+yaliyoundwa kutathmini uingiliaji kati wa udhibiti wa viuavijasumu katika
+huduma ya msingi Zanzibar, Tanzania.
+
+## DAWA I — Jaribio Linalopanga Nasibu katika Vikundi
+
+Utafiti mkuu ni jaribio la kimkakati la nasibu katika vikundi lenye
+mikono mitatu sambamba (RCT) lililoundwa kutathmini ufanisi wa vifurushi
+viwili vya uingiliaji kati vinavyolenga kupunguza uandishi wa viuavijasumu
+katika mazingira ya huduma ya msingi.
+
+**Eneo la Utafiti:** Madispensari ya umma kwenye kisiwa cha Unguja,
+Zanzibar, Tanzania.
+
+**Vigezo vya kujumuishwa (ngazi ya kikundi):**
+
+- Vituo vya huduma ya msingi vya serikali au vilivyoteuliwa na serikali
+  (madispensari) vilivyofunguliwa kwa umma.
+- Vituo vya afya vyenye mfumo wa Rekodi ya Matibabu ya Kielektroniki ya
+  Zanzibar (ZanEMR) vilivyowekwa katika vyumba vya mashauriano.
+
+**Vigezo vya kujumuishwa (ngazi ya mgonjwa — idadi ya msingi ya
+uchambuzi):**
+
+- Wagonjwa wa umri wote wanaokuja kwa ugonjwa wa kuambukiza wa papo hapo
+  katika miezi 4–6 baada ya kuanzishwa kwa uingiliaji kati.
+
+**Uingiliaji kati:**
+
+| Mkono | Uingiliaji Kati |
+|-------|----------------|
+| Mkono wa 1 | ZanEMR-AS + mafunzo ya awali ya kikundi + ufuatiliaji unaosaidiwa + mikutano ya kila mwezi ya Klamu ya Udhibiti wa Viuavijasumu |
+| Mkono wa 2 | ZanEMR-AS + mafunzo ya awali ya kikundi + ufuatiliaji unaosaidiwa |
+| Mkono wa 3 (udhibiti) | ZanEMR ya kawaida (huduma ya kawaida) |
+
+**ZanEMR-AS** inahusu mfumo wa Rekodi ya Matibabu ya Kielektroniki ya
+Zanzibar ulioimarishwa na vipengele vya udhibiti wa viuavijasumu,
+vikiwemo:
+
+- Msaada wa maamuzi ya kliniki (mwongozo wa pop-up mahali pa huduma)
+- Seti za agizo za matibabu zilizochaguliwa awali zinazooana na Miongozo
+  ya Matibabu ya Kawaida ya Zanzibar
+- Arifa za kutofautiana kwa matibabu
+- Uainishaji wa AWaRe wa viuavijasumu (mfumo wa WHO)
+- Dashibodi za ukaguzi na maoni
+
+**Klamu ya Udhibiti wa Viuavijasumu:** Mikutano ya kila mwezi ya elimu
+ya rika katika vituo vya afya katika Mkono wa 1, ambapo wahudumu wa
+afya hujadili uandishi wa busara wa viuavijasumu na kupitia mifumo ya
+uandishi wa ndani.
+
+## Matokeo ya Msingi
+
+Uwiano wa mashauriano yenye viuavijasumu vilivyoandikwa, ukipimwa katika
+miezi 4–6 baada ya kuanzishwa kwa uingiliaji kati.
+
+## Matokeo Muhimu ya Sekondari
+
+- Uwiano wa wagonjwa wenye hali mbaya zaidi ya kliniki siku ya 7 (matokeo
+  ya madhara)
+- Uwiano wa wagonjwa wenye matokeo mabaya ya kliniki (kulazwa hospitalini
+  au kifo) ifikapo siku ya 7
+- Uwiano wa mashauriano yenye viuavijasumu sahihi vilivyoandikwa
+- Uwiano wa viuavijasumu vilivyoainishwa kama "Access" kulingana na WHO AWaRe
+- Matumizi ya dawa za ziada zilizoripotiwa na mgonjwa ifikapo siku ya 7
+
+## Ukubwa wa Sampuli
+
+Wagonjwa 1,950 kwa kila mkono (jumla 5,850).
+
+## Upangaji wa Nasibu
+
+Upangaji wa nasibu utafanywa katika ngazi ya kituo cha afya (ngazi ya
+kikundi) kwa uwiano wa 1:1:1, ukipangwa kwa uwiano wa msingi wa uandishi
+wa viuavijasumu na kiwango cha mahudhurio ya kituo cha afya.
+
+## Kufunika
+
+Wasaidizi wa utafiti wanaandikisha wagonjwa na kutathmini matokeo ya siku
+ya 7 watafunikwa kuhusu mgawanyo. Wagonjwa hawataaarifiwa kuhusu mgawanyo
+wa kituo chao.
+
+## Muda Unaokadiriwa
+
+| Hatua | Tarehe |
+|-------|--------|
+| Kukamilika kwa itifaki | 2025–2026 |
+| Idhini za maadili | 2026 |
+| Uandikishaji wa kwanza unaokadiriwa | 1 Novemba 2026 |
+
+## Masomo Yaliyopachikwa
+
+**DAWA II — Matokeo ya Muda Mrefu:** Baada ya kukamilika kwa DAWA I,
+uandishi wa viuavijasumu utatathminiwa katika miezi 6 inayofuata (miezi
+6–12) baada ya shughuli zote za uingiliaji kati kusimama, kutathmini
+uendelevu wa athari.
+
+**Masomo ya Mbinu Mchanganyiko:** Mahojiano ya kina yenye muundo nusu-
+rasmi na majadiliano ya makundi ya makusudi na wahudumu wa afya na
+wadau wa Wizara ya Afya kutathmini ukubaliano na kutambua vizuizi na
+vichochezi vya uandishi wa busara wa viuavijasumu.
+
+**DAWA III — Uchambuzi wa Mfululizo wa Wakati Uliokatizwa:** Ikiwa
+ZanEMR-AS itaonyesha ahadi katika DAWA I, vipengele vya udhibiti wa
+viuavijasumu vitaenezwa kwa upana zaidi katika madispensari ya Zanzibar.
+Uchambuzi wa mfululizo wa wakati uliokatizwa wenye hatua zilizopigwa
+utatatumika kutathmini mabadiliko katika uandishi wa viuavijasumu katika
+vituo vipya vilivyoathiriwa.
+
+**Utafiti wa gharama na ufanisi wa gharama:** Uchambuzi wa uchumi wa
+uingiliaji kati kutoka kwa mtazamo wa mgonjwa, kituo cha afya, na mfumo
+wa afya ya umma.

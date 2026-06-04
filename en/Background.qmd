@@ -1,0 +1,68 @@
+---
+title: "Background"
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Antimicrobial Resistance — A Global Crisis
+
+Bacterial antimicrobial resistance (AMR) is one of the most pressing
+public health threats of the 21st century. AMR arises when bacteria
+evolve mechanisms to resist the effects of antibiotics, rendering
+standard treatments ineffective and enabling infections to persist and
+spread.
+
+Inappropriate antibiotic prescribing is a major driver of AMR.
+Antibiotics are prescribed when not needed, or the wrong antibiotic is
+chosen for the right indication, accelerating the selection of resistant
+bacterial strains.
+
+## The Burden in Primary Care
+
+More than **80% of all antibiotic prescribing** occurs in primary care
+settings. A systematic review found that antibiotics are prescribed in
+approximately **52% of primary care consultations** in low- and
+middle-income countries (LMICs) — a rate far exceeding clinical need.
+
+The consequences are stark: higher morbidity, higher mortality, longer
+illnesses, and increased healthcare costs — disproportionately affecting
+populations in LMICs who already face constrained access to health
+services.
+
+## The Situation in Tanzania and Zanzibar
+
+Tanzania, including the semi-autonomous Zanzibar archipelago, faces a
+significant burden of AMR. Primary care dispensaries in Zanzibar
+serve as the first point of contact for the majority of the population
+and are a critical setting in which to improve antibiotic prescribing
+practices.
+
+Several factors make rational antibiotic prescribing difficult in this
+context:
+
+- **Clinical uncertainty:** Many acute illnesses present with overlapping
+  symptoms, making it hard to distinguish bacterial from viral infections
+  without laboratory support.
+- **Patient expectations:** Patients often expect an antibiotic
+  prescription, and clinicians may feel pressure to prescribe.
+- **Longstanding prescribing culture:** Widespread antibiotic prescribing
+  has become normalized in many primary care settings.
+- **Limited decision-support tools:** Few digital tools are designed for
+  managing adult and paediatric patients in sub-Saharan Africa, and
+  those that exist are rarely integrated into the day-to-day clinical
+  workflow.
+
+## The Opportunity
+
+The Zanzibar Ministry of Health has developed and deployed the
+**Zanzibar Electronic Medical Record (ZanEMR)** system across primary
+care dispensaries on Unguja island. This digital infrastructure creates
+a unique opportunity to embed antibiotic stewardship features directly
+into the clinician's workflow — at the point of care, without
+duplicating data entry.
+
+The DAWA project was designed to test whether combining this digital
+clinical decision support with structured training and peer education can
+meaningfully reduce inappropriate antibiotic prescribing at the primary
+care level in Zanzibar.

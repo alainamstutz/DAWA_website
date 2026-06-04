@@ -1,0 +1,11 @@
+---
+title: "Machapisho"
+format: html
+editor:
+  markdown:
+    wrap: 72
+---
+
+Hakuna machapisho bado. Jaribio la DAWA halijanza uandikishaji.
+
+Machapisho yataongezwa hapa yanapokuwa yanapatikana.

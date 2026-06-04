@@ -1,9 +1,0 @@
----
-title: "Statistischer Analyseplan"
----
-
-<p> </p>
-
-## Version 1.0:
-
-[Download Analyseplan (PDF)](files/RETUNE_SAP_v1.0.pdf){target="_blank"}

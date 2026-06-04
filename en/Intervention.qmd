@@ -1,0 +1,105 @@
+---
+title: "The Intervention"
+editor:
+  markdown:
+    wrap: 72
+---
+
+The DAWA interventions are grounded in the WHO practical toolkit for
+antimicrobial stewardship in low- and middle-income country health
+facilities, and in guidelines from the Infectious Diseases Society of
+America (IDSA).
+
+## ZanEMR-AS — Digital Clinical Decision Support
+
+**ZanEMR** is the Zanzibar Electronic Medical Record system developed
+and deployed by the Zanzibar Ministry of Health across public
+dispensaries on Unguja island. **ZanEMR-AS** (ZanEMR — Antibiotic
+Stewardship) is a modified version of ZanEMR enhanced with antibiotic
+stewardship features, used in Intervention arms 1 and 2.
+
+ZanEMR-AS incorporates five core features:
+
+### 1. Clinical Decision Support
+
+A pop-up appears at the point of care when the clinician selects certain
+diagnoses, or when specific diagnosis–treatment combinations are entered.
+The guidance takes the form of a concise rule-based algorithm (2–3 steps)
+with checkboxes, helping the clinician decide whether an antibiotic is
+indicated and, if so, which one.
+
+The algorithms are developed from the Zanzibar and Tanzania Standard
+Treatment Guidelines, the WHO Integrated Management of Childhood Illness
+(IMCI), the WHO IMPACT clinical algorithms, and the Practical Approach to
+Care Kit (PACK). Clinical content is validated via a Rand/UCLA
+Appropriateness Method (RAM) process with expert panels in Zanzibar.
+
+### 2. Pre-selected Treatment Order Sets
+
+For diagnoses frequently associated with unnecessary or inappropriate
+antibiotic prescribing, the system presents pre-selected treatment order
+sets aligned with the Zanzibar Standard Treatment Guidelines and WHO AWaRe
+guidelines. This "positive default" design nudges clinicians toward
+evidence-based choices without restricting their autonomy.
+
+### 3. Treatment Discordance Alerts
+
+When a clinician selects an antibiotic for a diagnosis that does not
+require one, a pop-up alert flags the discordance. All ICD-10 diagnoses
+are categorised as: (A) antibiotic required, (B) antibiotic conditionally
+required, (C) antibiotic not required, or (D) antibiotic contraindicated.
+
+### 4. AWaRe Classification of Antibiotics
+
+All antibiotics in the system are classified according to the
+[WHO AWaRe framework](https://www.who.int/publications/i/item/2022-aware-classification){target="_blank"}
+(Access, Watch, Reserve, Not Recommended):
+
+- **Reserve** and **Not Recommended** antibiotics appear in **red**
+- **Watch** antibiotics appear in **orange**
+- **Access** antibiotics appear in **green**
+
+This visual coding reinforces appropriate antibiotic selection at the
+point of prescription.
+
+### 5. Audit and Feedback Dashboards
+
+Dashboards compare antibiotic prescription rates across participating
+health facilities, disaggregated by AWaRe category. These are shared
+with healthcare providers and relevant public health authorities to
+support facility-level reflection and improvement.
+
+---
+
+## Antibiotic Stewardship Club
+
+The **Antibiotic Stewardship Club** is a structured monthly peer
+education intervention implemented in Arm 1 facilities only.
+
+Each month, healthcare providers at the facility meet to:
+
+- Review their facility's antibiotic prescribing patterns using the
+  ZanEMR-AS dashboards
+- Discuss difficult or ambiguous cases
+- Identify local barriers to rational prescribing
+- Share strategies for communicating with patients who expect an antibiotic
+
+The meetings are peer-led (not externally imposed), creating an
+accountable and supportive environment for behaviour change. Sessions
+run for approximately 1 hour and are facilitated by a trained clinical
+champion at each facility.
+
+---
+
+## Training and Mentorship
+
+All facilities randomised to Arm 1 or Arm 2 receive:
+
+- **Initial group training** on the use of ZanEMR-AS and rational
+  antibiotic prescribing principles
+- **Supported mentorship visits** by a clinical mentor during the
+  intervention period, providing one-to-one or small-group guidance
+  and addressing implementation challenges
+
+Control facilities (Arm 3) continue to use standard ZanEMR with routine
+support from the Ministry of Health only.

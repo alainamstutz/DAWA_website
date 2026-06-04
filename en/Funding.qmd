@@ -1,19 +1,25 @@
 ---
-title: "Project partners"
+title: "Partners & Funding"
+editor:
+  markdown:
+    wrap: 72
 ---
 
-# Swiss HIV Cohort Study
+## Sponsor
 
-The RETUNE study is conducted within the Swiss HIV Cohort Study. The Swiss HIV Cohort Study is nation-wide, long standing providing the infrastructure and framework for the RETUNE study.
+The DAWA project is sponsored by the **Centre for Primary Care and
+Public Health (Unisanté), University of Lausanne**, Switzerland.
 
-[![](images/shcs_logo%20Kopie.jpg){fig-align="center" width="426"}](http://www.shcs.ch)
+## Implementation Partners
 
-# Funding
+- **Centre for Primary Care and Public Health (Unisanté), University of
+  Lausanne, Switzerland**
+- **Ifakara Health Institute (IHI)**, Dar es Salaam, Tanzania
+- **Zanzibar Ministry of Health**, Tanzania
 
-RETUNE is an investigator initiated clinical trial sponsored by the University Hospital Basel. RETUNE is funded by the **Swiss Tobacco Control Fund** (Federal Office of Public Health), the **Novartis Foundation for Medical-Biological Research** and by the **Swiss National Science Foundation**.
+## Funding
 
-[![](/images/logoBAG.png){fig-align="center"}](https://www.tpf.admin.ch/tpf/de/home.html)
+DAWA is funded by:
 
-[![](/images/Novartis.png){fig-align="center" width="866"}](https://www.novartisfoundation.org)
-
-[![](/images/SNSF.png)](https://www.snf.ch/en)
+- **Swiss National Science Foundation (SNSF)** — Grant PZ00P3\_216330
+- **Cadot Prize**, University of Lausanne

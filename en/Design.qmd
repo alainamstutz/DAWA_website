@@ -1,0 +1,117 @@
+---
+title: "Study Design"
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Overview
+
+The DAWA project is a master protocol comprising several interrelated
+studies designed to evaluate antibiotic stewardship interventions in
+primary care in Zanzibar, Tanzania.
+
+## DAWA I — Cluster Randomized Controlled Trial
+
+The primary study is a pragmatic three-arm parallel-group cluster
+randomized controlled trial (RCT) designed to evaluate the effectiveness
+of two intervention packages aimed at reducing antibiotic prescribing in
+primary care settings.
+
+**Study setting:** Public dispensaries on Unguja island, Zanzibar,
+Tanzania.
+
+**Cluster-level inclusion criteria:**
+
+- Government or government-designated primary care health facilities
+  (dispensaries) open to the general public.
+- Health facilities with the Zanzibar Electronic Medical Record system
+  (ZanEMR) installed in consultation rooms.
+
+**Patient-level inclusion criteria (primary analysis population):**
+
+- Patients of all ages presenting for an acute infectious illness at
+  months 4–6 after initiation of the interventions.
+
+**Interventions:**
+
+| Arm | Intervention |
+|-----|-------------|
+| Arm 1 | ZanEMR-AS + initial group training + supported mentorship + monthly Antibiotic Stewardship Club meetings |
+| Arm 2 | ZanEMR-AS + initial group training + supported mentorship |
+| Arm 3 (control) | Standard ZanEMR (usual care) |
+
+**ZanEMR-AS** refers to the Zanzibar Electronic Medical Record system
+enhanced with antibiotic stewardship features, including:
+
+- Clinical decision support (pop-up guidance at point of care)
+- Pre-selected treatment order sets aligned with Zanzibar Standard
+  Treatment Guidelines
+- Treatment discordance alerts
+- AWaRe classification of antibiotics (WHO framework)
+- Audit and feedback dashboards
+
+**Antibiotic Stewardship Club:** Monthly peer-based education meetings
+at health facilities in Arm 1, where healthcare providers discuss
+rational antibiotic prescribing and review local prescribing patterns.
+
+## Primary Outcome
+
+Proportion of encounters with an antibiotic prescribed, assessed at
+months 4–6 after initiation of the interventions.
+
+## Key Secondary Outcomes
+
+- Proportion of patients with worse clinical status at day 7 (harm
+  outcome)
+- Proportion of patients with severe clinical outcome (hospitalization or
+  death) by day 7
+- Proportion of encounters with an appropriate antibiotic prescribed
+- Proportion of antibiotics classified as "Access" according to WHO AWaRe
+- Patient-reported additional medication use by day 7
+
+## Sample Size
+
+1,950 patients per arm (5,850 total).
+
+## Randomization
+
+Randomization will be performed at the health facility (cluster) level
+with a 1:1:1 ratio, stratified by baseline antibiotic prescription
+proportion and health facility attendance rate.
+
+## Blinding
+
+Research assistants enrolling patients and assessing day-7 outcomes will
+be blinded to allocation. Patients will not be informed of their
+facility's allocation.
+
+## Estimated Timeline
+
+| Milestone | Date |
+|-----------|------|
+| Protocol finalization | 2025–2026 |
+| Ethics approvals | 2026 |
+| Estimated first enrolment | 1 November 2026 |
+
+## Nested Studies
+
+**DAWA II — Long-term Outcome:** Following completion of DAWA I,
+antibiotic prescribing will be assessed over the subsequent 6 months
+(months 6–12) after all active intervention activities have ceased, to
+evaluate sustainability of the effect.
+
+**Mixed-method studies:** Semi-structured in-depth interviews and focus
+group discussions with healthcare providers and Ministry of Health
+stakeholders to assess acceptability and identify barriers and
+facilitators of rational antibiotic prescribing.
+
+**DAWA III — Interrupted Time Series Analysis:** If ZanEMR-AS shows
+promise in DAWA I, the antibiotic stewardship features will be rolled out
+more broadly across Zanzibar dispensaries. A staggered interrupted time
+series analysis will be used to evaluate changes in antibiotic prescribing
+in newly exposed facilities.
+
+**Cost and cost-effectiveness study:** Economic analysis of the
+interventions from patient, health facility, and public health system
+perspectives.
