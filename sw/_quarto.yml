@@ -46,13 +46,11 @@ website:
     type: textbox
 
 html:
-  theme: quartz
+  theme: [quartz, ../styles.css]
   backgroundcolor: "#F0F7F4"
   mainfont: "Arial, sans-serif"
   fontsize: 1.6rem
   fontcolor: "#1B3A2D"
   footer: "#1A3D2B"
-
-style: css
 
 editor: visual
