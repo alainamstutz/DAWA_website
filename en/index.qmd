@@ -28,10 +28,10 @@ antibiotic stewardship, yet existing tools have important limitations:
 most target only children under five years of age, and many are not
 embedded in the health facilities' digital infrastructure.
 
-The DAWA project tests a comprehensive antibiotic stewardship
-intervention — combining digital clinical decision support integrated
+The DAWA trial tests a comprehensive antibiotic stewardship
+intervention, combining digital clinical decision support integrated
 within the Zanzibar Electronic Medical Record (ZanEMR) system with
-targeted training and monthly peer education meetings — at primary care
+targeted training and monthly peer education meetings, at primary care
 dispensaries on Unguja and Pemba islands, Zanzibar.
 
 ## Study Overview
@@ -50,9 +50,9 @@ dispensaries on Unguja and Pemba islands, Zanzibar.
 ## Primary Objective
 
 To evaluate the effectiveness of two antibiotic stewardship
-interventions — both incorporating clinical decision support integrated
+interventions, both incorporating clinical decision support integrated
 within an electronic medical record system, and one with an additional
-monthly peer education component — to reduce antibiotic prescribing for
+monthly peer education component, to reduce antibiotic prescribing for
 acute infections at primary care health facilities on Unguja and Pemba islands, Zanzibar, Tanzania.
 
 ## Study Arms

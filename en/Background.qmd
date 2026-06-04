@@ -59,7 +59,7 @@ The Zanzibar Ministry of Health has developed and deployed the
 **Zanzibar Electronic Medical Record (ZanEMR)** system across primary
 care dispensaries on Unguja and Pemba islands. This digital infrastructure creates
 a unique opportunity to embed antibiotic stewardship features directly
-into the clinician's workflow — at the point of care, without
+into the clinician's workflow, at the point of care, without
 duplicating data entry.
 
 Digital clinical decision support systems (CDSS) integrated within
