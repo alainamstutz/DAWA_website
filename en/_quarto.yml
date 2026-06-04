@@ -34,10 +34,13 @@ website:
         menu:
           - text: "Kiswahili"
             href: ../sw/index.html
+      - icon: github
+        text: Source
+        href: https://github.com/alainamstutz/DAWA_website
       - icon: envelope
         text: Email
         href: mailto:alain.amstutz@unisante.ch
-  page-footer: © 2025 DAWA Project &middot; Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+  page-footer: © 2026 DAWA Project &middot; Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) &middot; Website template by [Christof Schönenberger](https://github.com/christofmanuel)
   search:
     location: navbar
     type: textbox
