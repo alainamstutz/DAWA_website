@@ -28,11 +28,11 @@ antibiotic stewardship, yet existing tools have important limitations:
 most target only children under five years of age, and many are not
 embedded in the health facilities' digital infrastructure.
 
-The DAWA project tests a comprehensive antibiotic stewardship
+The DAWA trial tests a comprehensive antibiotic stewardship
 intervention — combining digital clinical decision support integrated
 within the Zanzibar Electronic Medical Record (ZanEMR) system with
 targeted training and monthly peer education meetings — at primary care
-dispensaries on Unguja and Pemba islands, Zanzibar.
+clinics on Unguja and Pemba islands, Zanzibar.
 
 ## Study Overview
 
@@ -79,7 +79,7 @@ funded by the Swiss National Science Foundation (SNSF).*
 
 ## Study Location
 
-The DAWA trial takes place at public dispensaries on **Unguja and Pemba islands, Zanzibar**, an archipelago off the east coast of Tanzania.
+The DAWA trial takes place at primary care facilities on **Unguja and Pemba islands, Zanzibar**, an archipelago off the east coast of Tanzania.
 
 <div style="height:6px;background:linear-gradient(to right,#00AEEF 33.3%,#000000 33.3%,#000000 66.6%,#009A44 66.6%);border-radius:3px;margin:1rem 0 1.5rem 0;"></div>
 
