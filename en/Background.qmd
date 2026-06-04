@@ -8,12 +8,12 @@ editor:
 ## Antimicrobial Resistance — A Global Crisis
 
 Bacterial antimicrobial resistance (AMR) is one of the most pressing
-public health threats of the 21st century. AMR arises when bacteria
+public health threats of the 21st century.<sup><a href="https://doi.org/10.1038/s41591-023-02633-9" target="_blank">1</a>,<a href="https://doi.org/10.1001/jama.2024.21972" target="_blank">2</a></sup> AMR arises when bacteria
 evolve mechanisms to resist the effects of antibiotics, rendering
 standard treatments ineffective and enabling infections to persist and
 spread.
 
-Inappropriate antibiotic prescribing is a major driver of AMR.
+Inappropriate antibiotic prescribing is a major driver of AMR.<sup><a href="https://doi.org/10.1016/S0140-6736(07)60785-5" target="_blank">3</a></sup>
 Antibiotics are prescribed when not needed, or the wrong antibiotic is
 chosen for the right indication, accelerating the selection of resistant
 bacterial strains.
@@ -21,9 +21,10 @@ bacterial strains.
 ## The Burden in Primary Care
 
 More than **80% of all antibiotic prescribing** occurs in primary care
-settings. A systematic review found that antibiotics are prescribed in
+settings.<sup><a href="https://doi.org/10.1016/S2214-109X(17)30383-2" target="_blank">4</a></sup> A systematic review found that antibiotics are prescribed in
 approximately **52% of primary care consultations** in low- and
-middle-income countries (LMICs) — a rate far exceeding clinical need.
+middle-income countries (LMICs) — a rate far exceeding clinical
+need.<sup><a href="https://doi.org/10.1371/journal.pmed.1003139" target="_blank">5</a></sup>
 
 The consequences are stark: higher morbidity, higher mortality, longer
 illnesses, and increased healthcare costs — disproportionately affecting
@@ -33,7 +34,7 @@ services.
 ## The Situation in Tanzania and Zanzibar
 
 Tanzania, including the semi-autonomous Zanzibar archipelago, faces a
-significant burden of AMR. Primary care dispensaries in Zanzibar
+significant burden of AMR.<sup><a href="https://doi.org/10.48508/GCC/2018.05" target="_blank">6</a>,<a href="https://doi.org/10.56759/rgxl7405" target="_blank">7</a></sup> Primary care dispensaries in Zanzibar
 serve as the first point of contact for the majority of the population
 and are a critical setting in which to improve antibiotic prescribing
 practices.
@@ -47,7 +48,8 @@ context:
 - **Patient expectations:** Patients often expect an antibiotic
   prescription, and clinicians may feel pressure to prescribe.
 - **Longstanding prescribing culture:** Widespread antibiotic prescribing
-  has become normalized in many primary care settings.
+  has become normalized in many primary care
+  settings.<sup><a href="https://doi.org/10.1016/j.japh.2018.05.013" target="_blank">8</a></sup>
 - **Limited decision-support tools:** Few digital tools are designed for
   managing adult and paediatric patients in sub-Saharan Africa, and
   those that exist are rarely integrated into the day-to-day clinical
@@ -62,7 +64,31 @@ a unique opportunity to embed antibiotic stewardship features directly
 into the clinician's workflow — at the point of care, without
 duplicating data entry.
 
+Digital clinical decision support systems (CDSS) integrated within
+electronic medical record (EMR) systems have shown potential to improve
+antibiotic stewardship,<sup><a href="https://doi.org/10.1186/s13756-023-01279-z" target="_blank">9</a>,<a href="https://doi.org/10.1503/cmaj.200077" target="_blank">10</a>,<a href="https://doi.org/10.1007/s11606-014-3051-2" target="_blank">11</a></sup> yet existing tools have important
+limitations: most target only children under five years of age, and
+many are not embedded in the health facilities' digital infrastructure.
+
 The DAWA project was designed to test whether combining this digital
 clinical decision support with structured training and peer education can
 meaningfully reduce inappropriate antibiotic prescribing at the primary
 care level in Zanzibar.
+
+---
+
+## References
+
+::: {style="font-size: 0.9rem; color: #444;"}
+1. [doi:10.1038/s41591-023-02633-9](https://doi.org/10.1038/s41591-023-02633-9){target="_blank"}
+2. [doi:10.1001/jama.2024.21972](https://doi.org/10.1001/jama.2024.21972){target="_blank"}
+3. [doi:10.1016/S0140-6736(07)60785-5](https://doi.org/10.1016/S0140-6736(07)60785-5){target="_blank"}
+4. [doi:10.1016/S2214-109X(17)30383-2](https://doi.org/10.1016/S2214-109X(17)30383-2){target="_blank"}
+5. [doi:10.1371/journal.pmed.1003139](https://doi.org/10.1371/journal.pmed.1003139){target="_blank"}
+6. [doi:10.48508/GCC/2018.05](https://doi.org/10.48508/GCC/2018.05){target="_blank"}
+7. [doi:10.56759/rgxl7405](https://doi.org/10.56759/rgxl7405){target="_blank"}
+8. [doi:10.1016/j.japh.2018.05.013](https://doi.org/10.1016/j.japh.2018.05.013){target="_blank"}
+9. [doi:10.1186/s13756-023-01279-z](https://doi.org/10.1186/s13756-023-01279-z){target="_blank"}
+10. [doi:10.1503/cmaj.200077](https://doi.org/10.1503/cmaj.200077){target="_blank"}
+11. [doi:10.1007/s11606-014-3051-2](https://doi.org/10.1007/s11606-014-3051-2){target="_blank"}
+:::

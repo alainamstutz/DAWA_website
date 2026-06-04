@@ -74,35 +74,42 @@
     "href": "Background.html",
     "title": "Background",
     "section": "",
-    "text": "Bacterial antimicrobial resistance (AMR) is one of the most pressing public health threats of the 21st century. AMR arises when bacteria evolve mechanisms to resist the effects of antibiotics, rendering standard treatments ineffective and enabling infections to persist and spread.\nInappropriate antibiotic prescribing is a major driver of AMR. Antibiotics are prescribed when not needed, or the wrong antibiotic is chosen for the right indication, accelerating the selection of resistant bacterial strains."
+    "text": "Bacterial antimicrobial resistance (AMR) is one of the most pressing public health threats of the 21st century.1,2 AMR arises when bacteria evolve mechanisms to resist the effects of antibiotics, rendering standard treatments ineffective and enabling infections to persist and spread.\nInappropriate antibiotic prescribing is a major driver of AMR.3 Antibiotics are prescribed when not needed, or the wrong antibiotic is chosen for the right indication, accelerating the selection of resistant bacterial strains."
   },
   {
     "objectID": "Background.html#antimicrobial-resistance-a-global-crisis",
     "href": "Background.html#antimicrobial-resistance-a-global-crisis",
     "title": "Background",
     "section": "",
-    "text": "Bacterial antimicrobial resistance (AMR) is one of the most pressing public health threats of the 21st century. AMR arises when bacteria evolve mechanisms to resist the effects of antibiotics, rendering standard treatments ineffective and enabling infections to persist and spread.\nInappropriate antibiotic prescribing is a major driver of AMR. Antibiotics are prescribed when not needed, or the wrong antibiotic is chosen for the right indication, accelerating the selection of resistant bacterial strains."
+    "text": "Bacterial antimicrobial resistance (AMR) is one of the most pressing public health threats of the 21st century.1,2 AMR arises when bacteria evolve mechanisms to resist the effects of antibiotics, rendering standard treatments ineffective and enabling infections to persist and spread.\nInappropriate antibiotic prescribing is a major driver of AMR.3 Antibiotics are prescribed when not needed, or the wrong antibiotic is chosen for the right indication, accelerating the selection of resistant bacterial strains."
   },
   {
     "objectID": "Background.html#the-burden-in-primary-care",
     "href": "Background.html#the-burden-in-primary-care",
     "title": "Background",
     "section": "The Burden in Primary Care",
-    "text": "The Burden in Primary Care\nMore than 80% of all antibiotic prescribing occurs in primary care settings. A systematic review found that antibiotics are prescribed in approximately 52% of primary care consultations in low- and middle-income countries (LMICs) — a rate far exceeding clinical need.\nThe consequences are stark: higher morbidity, higher mortality, longer illnesses, and increased healthcare costs — disproportionately affecting populations in LMICs who already face constrained access to health services."
+    "text": "The Burden in Primary Care\nMore than 80% of all antibiotic prescribing occurs in primary care settings.4 A systematic review found that antibiotics are prescribed in approximately 52% of primary care consultations in low- and middle-income countries (LMICs) — a rate far exceeding clinical need.5\nThe consequences are stark: higher morbidity, higher mortality, longer illnesses, and increased healthcare costs — disproportionately affecting populations in LMICs who already face constrained access to health services."
   },
   {
     "objectID": "Background.html#the-situation-in-tanzania-and-zanzibar",
     "href": "Background.html#the-situation-in-tanzania-and-zanzibar",
     "title": "Background",
     "section": "The Situation in Tanzania and Zanzibar",
-    "text": "The Situation in Tanzania and Zanzibar\nTanzania, including the semi-autonomous Zanzibar archipelago, faces a significant burden of AMR. Primary care dispensaries in Zanzibar serve as the first point of contact for the majority of the population and are a critical setting in which to improve antibiotic prescribing practices.\nSeveral factors make rational antibiotic prescribing difficult in this context:\n\nClinical uncertainty: Many acute illnesses present with overlapping symptoms, making it hard to distinguish bacterial from viral infections without laboratory support.\nPatient expectations: Patients often expect an antibiotic prescription, and clinicians may feel pressure to prescribe.\nLongstanding prescribing culture: Widespread antibiotic prescribing has become normalized in many primary care settings.\nLimited decision-support tools: Few digital tools are designed for managing adult and paediatric patients in sub-Saharan Africa, and those that exist are rarely integrated into the day-to-day clinical workflow."
+    "text": "The Situation in Tanzania and Zanzibar\nTanzania, including the semi-autonomous Zanzibar archipelago, faces a significant burden of AMR.6,7 Primary care dispensaries in Zanzibar serve as the first point of contact for the majority of the population and are a critical setting in which to improve antibiotic prescribing practices.\nSeveral factors make rational antibiotic prescribing difficult in this context:\n\nClinical uncertainty: Many acute illnesses present with overlapping symptoms, making it hard to distinguish bacterial from viral infections without laboratory support.\nPatient expectations: Patients often expect an antibiotic prescription, and clinicians may feel pressure to prescribe.\nLongstanding prescribing culture: Widespread antibiotic prescribing has become normalized in many primary care settings.8\nLimited decision-support tools: Few digital tools are designed for managing adult and paediatric patients in sub-Saharan Africa, and those that exist are rarely integrated into the day-to-day clinical workflow."
   },
   {
     "objectID": "Background.html#the-opportunity",
     "href": "Background.html#the-opportunity",
     "title": "Background",
     "section": "The Opportunity",
-    "text": "The Opportunity\nThe Zanzibar Ministry of Health has developed and deployed the Zanzibar Electronic Medical Record (ZanEMR) system across primary care dispensaries on Unguja island. This digital infrastructure creates a unique opportunity to embed antibiotic stewardship features directly into the clinician’s workflow — at the point of care, without duplicating data entry.\nThe DAWA project was designed to test whether combining this digital clinical decision support with structured training and peer education can meaningfully reduce inappropriate antibiotic prescribing at the primary care level in Zanzibar."
+    "text": "The Opportunity\nThe Zanzibar Ministry of Health has developed and deployed the Zanzibar Electronic Medical Record (ZanEMR) system across primary care dispensaries on Unguja island. This digital infrastructure creates a unique opportunity to embed antibiotic stewardship features directly into the clinician’s workflow — at the point of care, without duplicating data entry.\nDigital clinical decision support systems (CDSS) integrated within electronic medical record (EMR) systems have shown potential to improve antibiotic stewardship,9,10,11 yet existing tools have important limitations: most target only children under five years of age, and many are not embedded in the health facilities’ digital infrastructure.\nThe DAWA project was designed to test whether combining this digital clinical decision support with structured training and peer education can meaningfully reduce inappropriate antibiotic prescribing at the primary care level in Zanzibar."
+  },
+  {
+    "objectID": "Background.html#references",
+    "href": "Background.html#references",
+    "title": "Background",
+    "section": "References",
+    "text": "References\n\n\ndoi:10.1038/s41591-023-02633-9\ndoi:10.1001/jama.2024.21972\ndoi:10.1016/S0140-6736(07)60785-5\ndoi:10.1016/S2214-109X(17)30383-2\ndoi:10.1371/journal.pmed.1003139\ndoi:10.48508/GCC/2018.05\ndoi:10.56759/rgxl7405\ndoi:10.1016/j.japh.2018.05.013\ndoi:10.1186/s13756-023-01279-z\ndoi:10.1503/cmaj.200077\ndoi:10.1007/s11606-014-3051-2"
   },
   {
     "objectID": "Protocol.html",
