@@ -39,7 +39,7 @@ website:
         href: https://github.com/alainamstutz/DAWA_website
       - icon: envelope
         text: Email
-        href: mailto:alain.amstutz@unisante.ch
+        href: mailto:rainer.tan@unisante.ch
   page-footer: © 2026 DAWA Project &middot; Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) &middot; Website template by [Christof Schönenberger](https://github.com/christofmanuel)
   search:
     location: navbar

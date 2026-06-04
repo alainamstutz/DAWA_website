@@ -1,5 +1,5 @@
 ---
-title: "DAWA"
+title: "DAWA trial"
 about:
   template: marquee
   image-shape: rectangle
@@ -9,7 +9,7 @@ editor:
     wrap: 72
 ---
 
-# Digital Antibiotic stewardship and Training for Wahudumu wa Afya
+# Digital Antibiotic stewardship and training for Wahudumu wa Afya (DAWA)
 
 **DAWA is a cluster-randomized trial evaluating the effectiveness of a
 digital clinical decision support system, training and mentorship to
@@ -21,8 +21,6 @@ Zanzibar, Tanzania.**
 Inappropriate antibiotic prescribing is widespread in primary care
 settings in low- and middle-income countries, contributing to bacterial
 antimicrobial resistance (AMR), and excess morbidity and mortality.
-Antibiotic prescription is estimated to occur in over half of primary
-care consultations in low- and middle-income countries.
 
 Digital clinical decision support systems (CDSS) integrated within
 electronic medical record (EMR) systems have shown potential to improve
@@ -76,3 +74,33 @@ and Public Health (Unisanté), University of Lausanne; the Ifakara Health
 Institute (IHI), Tanzania; and the Zanzibar Ministry of Health. It is
 funded by the Swiss National Science Foundation (SNSF).*
 :::
+
+---
+
+## Study Location
+
+The DAWA trial takes place at public dispensaries on **Unguja island, Zanzibar**, an archipelago off the east coast of Tanzania.
+
+<div style="height:6px;background:linear-gradient(to right,#00AEEF 33.3%,#000000 33.3%,#000000 66.6%,#009A44 66.6%);border-radius:3px;margin:1rem 0 1.5rem 0;"></div>
+
+<div style="display:flex;gap:2rem;flex-wrap:wrap;align-items:flex-start;">
+
+<div style="flex:0 0 auto;text-align:center;">
+
+**Flag of Zanzibar**
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" style="width:180px;height:120px;border:1px solid #ccc;border-radius:4px;display:block;margin:0.4rem 0;"><rect width="3" height="0.667" fill="#00AEEF"/><rect y="0.667" width="3" height="0.667" fill="#000000"/><rect y="1.333" width="3" height="0.667" fill="#009A44"/></svg>
+
+<small style="color:#666;">Blue · Black · Green</small>
+
+</div>
+
+<div style="flex:1 1 300px;">
+
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=39.00%2C-6.60%2C40.10%2C-4.70&amp;layer=mapnik" style="width:100%;height:300px;border:1px solid #ccc;border-radius:8px;" loading="lazy"></iframe>
+
+<small style="color:#888;">Map © <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors</small>
+
+</div>
+
+</div>

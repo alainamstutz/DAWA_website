@@ -39,7 +39,7 @@ website:
         href: https://github.com/alainamstutz/DAWA_website
       - icon: envelope
         text: Barua pepe
-        href: mailto:alain.amstutz@unisante.ch
+        href: mailto:rainer.tan@unisante.ch
   page-footer: © 2026 Mradi wa DAWA &middot; Imetengenezwa na [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) &middot; Kiolezo cha tovuti na [Christof Schönenberger](https://github.com/christofmanuel)
   search:
     location: navbar
