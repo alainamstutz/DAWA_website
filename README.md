@@ -84,21 +84,9 @@ quarto preview sw/
 
 ---
 
-## How to Add a URL (Custom Domain)
+## PS
 
-When a domain is available (e.g. `www.dawa-trial.com`):
-
-1. **GitHub Pages settings:** In the repository on GitHub, go to *Settings → Pages* and enter the custom domain.
-
-2. **CNAME file:** Create `docs/CNAME` containing only the domain name:
-   ```
-   www.dawa-trial.com
-   ```
-   This file must survive re-renders — create it after rendering, or add it to a pre-render script.
-
-3. **DNS:** Point your domain's DNS to GitHub Pages (typically a CNAME record to `<username>.github.io`).
-
-4. **ClinicalTrials.gov link:** Once registered, add the registry URL to the right-hand side of the navbar in both `_quarto.yml` files:
+1. **ClinicalTrials.gov link:** Once registered, add the registry URL to the right-hand side of the navbar in both `_quarto.yml` files:
    ```yaml
    right:
      - icon: folder
@@ -112,8 +100,4 @@ When a domain is available (e.g. `www.dawa-trial.com`):
 
 This repository is adapted from the website of the **RETUNE trial** — *"Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV"* — a pragmatic randomized trial within the Swiss HIV Cohort Study.
 
-The RETUNE website was designed and built by **[Christof Schönenberger](https://github.com/christofmanuel)** (University Hospital Basel), whose clean Quarto structure, bilingual setup, and thoughtful design provided the direct foundation for this site. Many thanks to Christof for making his work openly available and for the inspiration.
-
-- RETUNE trial registry: [NCT06789692](https://clinicaltrials.gov/study/NCT06789692)
-- RETUNE protocol publication: Schönenberger CM et al. *Trials* (2026). https://doi.org/10.1186/s13063-026-09622-6
-- RETUNE website source: https://github.com/christofmanuel/RETUNE_website
+The RETUNE website was designed and built by **[Christof Schönenberger](https://github.com/christofmanuel)** (University Hospital Basel), whose clean Quarto structure, multilingual setup, and thoughtful design provided the direct foundation for this site. Kudos to Christof for making his work openly available and for the inspiration!
