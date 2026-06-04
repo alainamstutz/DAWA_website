@@ -18,8 +18,8 @@ randomized controlled trial (RCT) designed to evaluate the effectiveness
 of two intervention packages aimed at reducing antibiotic prescribing in
 primary care settings.
 
-**Study setting:** Public dispensaries on Unguja island, Zanzibar,
-Tanzania.
+**Study setting:** Public dispensaries on Unguja and Pemba islands,
+Zanzibar, Tanzania.
 
 **Cluster-level inclusion criteria:**
 
@@ -106,11 +106,19 @@ group discussions with healthcare providers and Ministry of Health
 stakeholders to assess acceptability and identify barriers and
 facilitators of rational antibiotic prescribing.
 
-**DAWA III — Interrupted Time Series Analysis:** If ZanEMR-AS shows
-promise in DAWA I, the antibiotic stewardship features will be rolled out
-more broadly across Zanzibar dispensaries. A staggered interrupted time
-series analysis will be used to evaluate changes in antibiotic prescribing
-in newly exposed facilities.
+**DAWA III — Staggered Rollout Evaluation:** If ZanEMR-AS shows
+effectiveness in DAWA I, the antibiotic stewardship features will be
+rolled out to approximately 30–50 additional primary care facilities on
+Unguja and Pemba islands not included in the trial. DAWA III will
+evaluate whether the effect generalises to a broader, more heterogeneous
+set of facilities under real-world conditions — without stewardship clubs
+— using a prospective quasi-experimental **staggered
+difference-in-differences (DiD) event study** design. Successive rollout
+waves serve as natural experiments, with not-yet-treated facilities acting
+as controls for newly treated cohorts. The primary outcome is the monthly
+antibiotic prescribing proportion for acute illness. If rollout occurs too
+rapidly for meaningful staggering, the analysis reverts to an interrupted
+time series (ITS) approach.
 
 **Cost and cost-effectiveness study:** Economic analysis of the
 interventions from patient, health facility, and public health system

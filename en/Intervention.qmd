@@ -14,7 +14,7 @@ America (IDSA).
 
 **ZanEMR** is the Zanzibar Electronic Medical Record system developed
 and deployed by the Zanzibar Ministry of Health across public
-dispensaries on Unguja island. **ZanEMR-AS** (ZanEMR — Antibiotic
+dispensaries on Unguja and Pemba islands. **ZanEMR-AS** (ZanEMR — Antibiotic
 Stewardship) is a modified version of ZanEMR enhanced with antibiotic
 stewardship features, used in Intervention arms 1 and 2.
 
