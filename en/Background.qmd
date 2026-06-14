@@ -50,7 +50,7 @@ context:
   has become normalized in many primary care settings.
 - **Limited decision-support tools:** Few digital tools are designed for
   managing adult and pediatric patients in sub-Saharan Africa, and
-  those that exist are rarely integrated into the day-to-day clinical
+  those that exist are rarely integrated into day-to-day clinical
   workflow.
 
 ## The Opportunity
