@@ -49,7 +49,7 @@ context:
 - **Longstanding prescribing culture:** Widespread antibiotic prescribing
   has become normalized in many primary care settings.
 - **Limited decision-support tools:** Few digital tools are designed for
-  managing adult and paediatric patients in sub-Saharan Africa, and
+  managing adult and pediatric patients in sub-Saharan Africa, and
   those that exist are rarely integrated into the day-to-day clinical
   workflow.
 
