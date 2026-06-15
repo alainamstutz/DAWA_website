@@ -7,7 +7,7 @@ editor:
 
 ## Antimicrobial Resistance — A Global Crisis
 
-Bacterial antimicrobial resistance (AMR) is one of the most pressing
+Bacterial antimicrobial resistance is one of the most pressing
 public health threats of our times. AMR arises when bacteria
 evolve mechanisms to resist the effects of antibiotics, rendering
 standard treatments ineffective and enabling infections to persist and
