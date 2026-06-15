@@ -53,11 +53,15 @@ DAWA_website/
 
 ---
 
-## How to Render
+## Rendering
 
-You need [Quarto](https://quarto.org/docs/get-started/) installed. Render each language version separately from the repo root:
+I created an Action on GitHub, which automatically renders (both languages) whenever a change is uploaded.
 
-Output is written to `docs/en/` and `docs/sw/` respectively, as configured in each `_quarto.yml`. After rendering both, `docs/` is ready to be served by GitHub Pages.
+So, you don't need to render locally in RStudio.
+
+However, local rendering/preview obviously helps to see how the final output looks like.
+
+For that you need you need [Quarto](https://quarto.org/docs/get-started/) installed. And render/preview each language version separately from the repo root.
 
 To preview a single language locally (with live reload):
 
