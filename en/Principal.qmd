@@ -24,15 +24,19 @@ Lausanne, Switzerland
 ## Co-Investigators and Collaborators
 
 ::: {.team-card}
-**[Name]**
+**[Dr Andrew Katende]**
 *[Title]*
-[Institution]
+Ifakara Health Institute (IHI), Tanzania
+Unisanté, Lausanne, Switzerland
+University of Lausanne, Switzerland
 :::
 
 ::: {.team-card}
-**[Name]**
+**[Dr Nina Emery]**
 *[Title]*
+Unisanté, Lausanne, Switzerland
 Ifakara Health Institute (IHI), Tanzania
+University of Lausanne, Switzerland
 :::
 
 ::: {.team-card}
